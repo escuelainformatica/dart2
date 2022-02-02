@@ -1,5 +1,17 @@
 A simple command-line application.
 
+# subir los cambios.
+
+* Instalar el programa de git https://git-scm.com/
+* En la linea de comando, y donde quiero descargar el programa:
+> git clone https://github.com/escuelainformatica/dart2.git
+* En la linea de comando, en la carpeta del proyecto, puedo hacer git commit
+* O usar el IDE para hacer un commit y aprobar o rechazar los cambios.
+  * Es necesario agregar un comentario.
+* Una vez que los documentos estan "commit" (aprobados), en la linea de comando (en la carpeta de proyecto)
+> git push
+> 
+
 # Anotacion de nombres
 
 * clases deberian partir en mayuscula. 
